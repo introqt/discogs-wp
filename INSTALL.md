@@ -70,21 +70,25 @@
 ## Troubleshooting
 
 ### "WooCommerce Required" Error
+
 - Make sure WooCommerce is installed and activated
 - Go to **Plugins** and activate WooCommerce if it's installed but not active
 - If WooCommerce is not installed, go to **Plugins > Add New**, search for "WooCommerce", install and activate it
 
 ### API Token Not Working
+
 - Make sure you copied the entire token (no spaces before/after)
 - Verify the token is active on your Discogs account
 - Try generating a new token if the old one doesn't work
 
 ### Images Not Downloading
+
 - Check that your WordPress installation has write permissions to the uploads folder
 - Verify your server can make outbound HTTP requests
 - Check PHP memory limit (minimum 128MB recommended)
 
 ### Products Not Appearing
+
 - If products are set to "Draft" status, they won't appear in your store until published
 - Go to **Products** in WordPress admin to see all products including drafts
 - Edit the product and click **Publish** to make it visible
