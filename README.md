@@ -141,7 +141,7 @@ This plugin is licensed under the GPL v2 or later.
 
 ## Changelog
 
-### 1.0.0
+### 0.0.1
 - Initial release
 - Discogs API integration
 - Search functionality
